@@ -2,10 +2,9 @@
 
 ## 💫 About Me
 🎓 Final Year B.Tech Computer Science Engineering Student | Graduating in 2026  
-💻 Frontend & Flask Developer  
-🌐 Web Developer  
+💻 AI/ML Enthusiast | Full Stack Web Developer | Python & JavaScript Developer | Flask Developer | Building Real-World AI Web Apps
+🌐 Building real-world web applications with AI, APIs and modern technologies.  
 🤖 Machine Learning Learner  
-Building real-world web applications with AI, APIs and modern technologies.
 
 ---
 
@@ -34,6 +33,12 @@ Building real-world web applications with AI, APIs and modern technologies.
 ## 🐍 Nokia Snake Game
 
 ---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitSingh1008&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSingh1008)
 
 # 🌱 Currently Learning
 - Deep Learning
