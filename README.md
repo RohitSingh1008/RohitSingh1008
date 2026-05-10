@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Rohit Kumar Singh
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&fontSize=25&fontColor=ffffff" />
-
 ## 💫 About Me
 🎓 Final Year B.Tech Computer Science Engineering Student | Graduating in 2026  
 💻 AI/ML Enthusiast | Full Stack Web Developer | Python & JavaScript Developer | Flask Developer  
