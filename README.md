@@ -18,7 +18,6 @@ Building real-world web applications with AI, APIs and modern frontend technolog
 - Git & GitHub
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitSingh1008&show_icons=true)
 
 # 📂 Featured Projects
 
