@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 🎓 Final Year B.Tech Computer Science Engineering Student | Graduating in 2026  
-💻 AI/ML Enthusiast | Full Stack Web Developer | Python & JavaScript Developer | Flask Developer | Building Real-World AI Web Apps
+💻 AI/ML Enthusiast | Full Stack Web Developer | Python & JavaScript Developer | Flask Developer 
 🌐 Building real-world web applications with AI, APIs and modern technologies.  
 🤖 Machine Learning Learner  
 
