@@ -5,7 +5,7 @@
 💻 Frontend & Flask Developer  
 🌐 Web Developer  
 🤖 Machine Learning Learner  
-Building real-world web applications with AI, APIs and modern frontend technologies.
+Building real-world web applications with AI, APIs and modern technologies.
 
 ---
 
