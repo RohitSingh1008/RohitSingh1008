@@ -12,6 +12,9 @@
 ---
 
 # 🚀 Skills
+- Linux (Ubuntu/Kali)
+- PBash Scripting & Automation
+- Network Security Fundamentals
 - Python
 - Flask
 - HTML
